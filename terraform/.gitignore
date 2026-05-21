@@ -7,6 +7,6 @@ terraform.tfvars
 .terraform.lock.hcl
 keys/
 *.json
-*.bin
+bin/
 
 
