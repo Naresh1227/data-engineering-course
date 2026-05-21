@@ -8,5 +8,6 @@ terraform.tfvars
 keys/
 *.json
 bin/
+terraform/bin/
 
 
